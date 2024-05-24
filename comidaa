@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+    <title>Comidas rapidas j&d</title>
+    <link rel="icon" href="logootravez.png" type="image/x-icon">
+
+    <link rel="stylesheet" href="startt.css">
+
+</head>
+<body>
+    <header>
+        <div class="menu">
+        
+        
+        
+            <nav>
+            <ul>
+                <li><a href="start.html"> COMIDAS RAPIDAS J&D:</a> </li>
+                <li><a href="start.html">inicio<a/></li>
+                <li><a href="about us.html" >about us </a></li>
+                <li><a href="comidasj&d.html" >comidas</a></li>
+                <li><a href="bebidasj&d.html">bebidas</a></li>
+                <li><a href="7">domicilios</a></li>
+                
+            </ul>
+        </nav>
+        </div>
+            
+        
+        </header>
+
+<h1>Comidas rápidas j&d </h1>
+<h2>una experiencia unica...believvme!!</h2>
+<img src="logootravez.png" width="300" height="350">
+<p class="mover-derecha" >Si lo que quieres es un lugar de confianza, un lugar donde puedas ir a comer rico, con un buen ambiente y buena música, es para ti. Comidas rápidas j&d es el lugar ideal para esas noches donde no quieres cocinar, para ir con la familia o simplemente para ir a comer solo y disfrutar la vida con una hamburguesa, un hot dog o unas empandaas.</p>
+
+
+
+<h2 class="epa">Redes sociales:</h3>
+
+<a  href="https://www.facebook.com/profile.php?id=61559155607258&mibextid=ZbWKwL" target="_blank">
+    <img  class="apps"  src="facelogo.png" > 
+</a>
+                <a href="https://www.instagram.com/comidasrapidasjdd/" target="_blank">
+                    <img class="apps" src="logoinsta.png">
+                </a>
+                <a href="https://www.tiktok.com/@comidasrapidasjd" target="_blank">
+                    <img class="apps" src="logotik.png">
+                </a>
+<p class="espacioen">El dia es claro, ha salido solo. te han entrado ganas, de bebertelo todo; crees que cuando bailas, no se esconce el miedo y sobre s cuello, flotan los pañuelos...solo hace falta, que demos la vuela, recapitulemos paguemos a medias, mi sobredosis siempre seran tus piernas, que beben del metal que hay en tus venas...</p>
+
+
+
+
+
+
+
+    </body>
+</html>
